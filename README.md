@@ -1,18 +1,9 @@
-# 👋 Hi, I’m Emile Izere  
+# 👋 Hellooo! Thank you for visiting my profile. I’m Emile Izere  
 
-🎓 Junior at **Yale University** studying **Computer Science & Economics** with a **Certificate in Data Science**.  
-💡 I love building systems that blend **algorithms, data, and social impact**.  
+🎓 Junior at **Yale University**, studying **Computer Science & Economics** with a **Certificate in Data Science**.  
+🌍 Passionate about building systems that combine **algorithms, scalable infrastructure, and social impact**.  
 
----
-
-## 🔭 Featured Projects  
-
-### [InternTrack](#)  
-A comprehensive full-stack web application to track internship applications with authentication, analytics, email notifications, and visa sponsorship insights.  
-
-## ⚙️ Tech Stack  
-
-## ⚙️ Tech Stack  
+## Tech Stack  
 
 **Languages & Frameworks**  
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
