@@ -36,3 +36,35 @@
 [![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
 [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)](https://docs.pytest.org/)
 [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)](https://jestjs.io/)
+
+
+---
+
+## 🚀 Ongoing Project  
+- **ISOKO Rwanda** – A mobile-first social-commerce platform for SMEs.  
+  Helping small businesses list products, engage with AI chatbots, and grow visibility.  
+
+---
+
+## 🌱 Currently Learning  
+- Advanced data science workflows (pipelines, predictive modeling, visualization).  
+- New programming concepts in **distributed systems, compiler design, and cloud infra**.  
+- Improving algorithms & problem-solving speed for competitive programming + interviews.  
+
+---
+
+## 🤝 Open to Collaborate  
+I’d love to connect with others on **open-source projects, data-driven apps, or tools that make life easier for students, developers, or communities**.  
+If you have an idea, let’s build it together!  
+
+---
+
+## 📫 Contact Me  
+- 📧 Email: [emile.izere@yale.edu](mailto:emile.izere@yale.edu)  
+- 💼 LinkedIn: [linkedin.com/in/emile-izere-886432267](https://www.linkedin.com/in/emile-izere-886432267)  
+- 🌐 Portfolio: *coming soon*  
+
+---
+
+✨ See pinned projects below! Thanks again for stopping by my profile — I look forward to learning and collaborating with you.  
+
